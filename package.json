@@ -1,0 +1,21 @@
+{
+  "name": "senacpos",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/echevarria/senacpos.git"
+  },
+  "author": "Marcos Echevarria",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/echevarria/senacpos/issues"
+  },
+  "dependencies": {
+    "express": "~4.16.3"
+  }
+}
